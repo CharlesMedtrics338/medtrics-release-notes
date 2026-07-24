@@ -1,0 +1,23 @@
+{
+  "name": "medtrics-release-notes",
+  "version": "0.8.0",
+  "description": "Release pipeline for Medtrics. Customer-facing track: per-ticket exec-voice release narrative headed by each ticket's identifier + verbatim title (storyteller), prose polish (copy-audit), IP guard (allows ticket IDs, exempts title headers), branded PDFs with per-ticket cards, Slack post. Internal-team track: /internal-notes builds the #dream-team digest with ticket IDs, developer @-mentions, and client attribution intact.",
+  "author": {
+    "name": "Sahil",
+    "email": "sahil@medtricslab.com"
+  },
+  "keywords": [
+    "medtrics",
+    "release-notes",
+    "exec-voice",
+    "storyteller",
+    "internal-storyteller",
+    "copy-audit",
+    "ip-guard",
+    "slack",
+    "dream-team",
+    "pdf",
+    "client-comms",
+    "internal-comms"
+  ]
+}
